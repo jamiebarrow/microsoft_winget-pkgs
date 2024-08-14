@@ -1,0 +1,23 @@
+# Created using wingetcreate 1.6.4.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: rwxrob.pomo
+PackageVersion: 0.2.3
+PackageLocale: en-US
+Publisher: Robert S. Muhlestein
+PublisherUrl: https://github.com/rwxrob/
+Author: Robert S. Muhlestein
+PackageName: pomo
+PackageUrl: https://github.com/rwxrob/pomo
+License: Apache-2.0
+LicenseUrl: https://github.com/rwxrob/pomo/blob/main/LICENSE
+Copyright: Copyright 2020 Rob Muhlestein
+ShortDescription: sets or prints a countdown timer (with tomato)
+Description: The pomo command is a simple tool to help people follow the Pomodoro method of time boxing.
+Moniker: pomo
+Tags:
+- pomo
+- rwxrob
+ReleaseNotesUrl: https://github.com/rwxrob/pomo/releases/tag/v0.2.3
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
